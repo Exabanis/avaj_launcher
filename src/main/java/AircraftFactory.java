@@ -11,6 +11,12 @@ public class AircraftFactory {
             flyable = new JetPlane(name, coordinates);
         } else if (type.equals("Baloon")){
             flyable = new Baloon(name, coordinates);
+        } else {
+            try {
+                throw new OwnException("Invalid class type");
+            } catch (OwnException e) {
+                e.printStackTrace();
+            }
         }
 
         return flyable;

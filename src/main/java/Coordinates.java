@@ -20,4 +20,9 @@ public class Coordinates {
     public int getHeight() {
         return height;
     }
+
+    @Override
+    public String toString() {
+        return getLongitude()+" "+getLatitude()+" "+getHeight();
+    }
 }

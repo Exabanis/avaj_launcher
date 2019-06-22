@@ -1,0 +1,163 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1) :  Nothing said I had to crash.
+Baloon#B2(2) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+JetPlane#J1(3) :  The brakes are not working, the sky is wet !
+Helicopter#H1(4) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+Helicopter#H2(5) :  Let's enjoy the good weather and take some pics.
+Helicopter#H3(6) :  Nothing said I had to crash.
+Baloon#B3(7) :  Death is just nature's way of telling you to watch your airspeed.
+JetPlane#J2(8) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H4(9) :  This is hot.
+Baloon#B1(1) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+Baloon#B2(2) :  Nothing said I had to crash.
+JetPlane#J1(3) :  Damn you rain! You messed up my trip.
+Helicopter#H1(4) :  This plane is too heavy to land in the rain.
+Helicopter#H2(5) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H3(6) :  The brakes are not working, the sky is wet !
+Baloon#B3(7) :  The strength of the turbulence is directly proportional to the temperature of your coffee.
+JetPlane#J2(8) :  The brakes are not working, the sky is wet !
+Helicopter#H4(9) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+Baloon#B1(1) :  The brakes are not working, the sky is wet !
+Baloon#B2(2) :  Damn you rain! You messed up my trip.
+JetPlane#J1(3) :  This plane is too heavy to land in the rain.
+Helicopter#H1(4) :  My rotor is going to freeze!
+Helicopter#H1(4) landing @ 659 33 0.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+Baloon#B3(7) :  This is hot.
+JetPlane#J2(8) :  Let's enjoy the good weather and take some pics.
+Helicopter#H4(9) :  We have clearance, Clarence. Roger, Roger. What's our vector, Victor?.
+Baloon#B1(1) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+Baloon#B2(2) :  Damn you rain! You messed up my trip.
+JetPlane#J1(3) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H2(5) :  This plane is too heavy to land in the rain.
+Helicopter#H3(6) :  The brakes are not working, the sky is wet !
+Baloon#B3(7) :  For years politicians have promised the Moon. I’m the first one to be able to deliver it.
+JetPlane#J2(8) :  Instrument flying is an unnatural act probably punishable by God.
+Helicopter#H4(9) :  The strength of the turbulence is directly proportional to the temperature of your coffee.
+Baloon#B1(1) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+Baloon#B1(1) landing @ 17 3 0.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+JetPlane#J1(3) :  Instrument flying is an unnatural act probably punishable by God.
+Helicopter#H2(5) :  We have clearance, Clarence. Roger, Roger. What's our vector, Victor?.
+Helicopter#H3(6) :  This plane is too heavy to land in the rain.
+Baloon#B3(7) :  My rotor is going to freeze!
+JetPlane#J2(8) :  Instrument flying is an unnatural act probably punishable by God.
+Helicopter#H4(9) :  We have clearance, Clarence. Roger, Roger. What's our vector, Victor?.
+Baloon#B2(2) :  This plane is too heavy to land in the rain.
+JetPlane#J1(3) :  The strength of the turbulence is directly proportional to the temperature of your coffee.
+Helicopter#H2(5) :  Damn you rain! You messed up my trip.
+Helicopter#H3(6) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+Baloon#B3(7) :  Damn you rain! You messed up my trip.
+JetPlane#J2(8) :  For years politicians have promised the Moon. I’m the first one to be able to deliver it.
+Helicopter#H4(9) :  The brakes are not working, the sky is wet !
+Baloon#B2(2) :  We have clearance, Clarence. Roger, Roger. What's our vector, Victor?.
+JetPlane#J1(3) :  Instrument flying is an unnatural act probably punishable by God.
+Helicopter#H2(5) :  My rotor is going to freeze!
+Helicopter#H3(6) :  Now I know what a dog feels like watching TV.
+Baloon#B3(7) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+JetPlane#J2(8) :  Damn you rain! You messed up my trip.
+Helicopter#H4(9) :  Death is just nature's way of telling you to watch your airspeed.
+Baloon#B2(2) :  Instrument flying is an unnatural act probably punishable by God.
+JetPlane#J1(3) :  The strength of the turbulence is directly proportional to the temperature of your coffee.
+Helicopter#H2(5) :  Instrument flying is an unnatural act probably punishable by God.
+Helicopter#H3(6) :  The strength of the turbulence is directly proportional to the temperature of your coffee.
+Baloon#B3(7) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+Baloon#B3(7) landing @ 108 42 0.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+Helicopter#H4(9) :  Death is just nature's way of telling you to watch your airspeed.
+Baloon#B2(2) :  Damn you rain! You messed up my trip.
+JetPlane#J1(3) :  Nothing said I had to crash.
+Helicopter#H2(5) :  Nothing said I had to crash.
+Helicopter#H3(6) :  Instrument flying is an unnatural act probably punishable by God.
+JetPlane#J2(8) :  Death is just nature's way of telling you to watch your airspeed.
+Helicopter#H4(9) :  The brakes are not working, the sky is wet !
+Baloon#B2(2) :  This is hot.
+JetPlane#J1(3) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H2(5) :  My rotor is going to freeze!
+Helicopter#H3(6) :  For years politicians have promised the Moon. I’m the first one to be able to deliver it.
+JetPlane#J2(8) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H4(9) :  This is hot.
+Baloon#B2(2) :  Alright, I’ll need three men up in the wind shield.
+JetPlane#J1(3) :  Nothing said I had to crash.
+Helicopter#H2(5) :  Let's enjoy the good weather and take some pics.
+Helicopter#H3(6) :  Death is just nature's way of telling you to watch your airspeed.
+JetPlane#J2(8) :  For years politicians have promised the Moon. I’m the first one to be able to deliver it.
+Helicopter#H4(9) :  Damn you rain! You messed up my trip.
+Baloon#B2(2) :  Now I know what a dog feels like watching TV.
+JetPlane#J1(3) :  Nothing said I had to crash.
+JetPlane#J1(3) landing @ 42 64 0.
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+Helicopter#H3(6) :  This plane is too heavy to land in the rain.
+JetPlane#J2(8) :  The brakes are not working, the sky is wet !
+Helicopter#H4(9) :  This is hot.
+Baloon#B2(2) :  Death is just nature's way of telling you to watch your airspeed.
+Helicopter#H2(5) :  Now I know what a dog feels like watching TV.
+Helicopter#H3(6) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+JetPlane#J2(8) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+Helicopter#H4(9) :  This is hot.
+Baloon#B2(2) :  This is hot.
+Helicopter#H2(5) :  Now I know what a dog feels like watching TV.
+Helicopter#H3(6) :  This plane is too heavy to land in the rain.
+JetPlane#J2(8) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H4(9) :  This plane is too heavy to land in the rain.
+Baloon#B2(2) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H2(5) :  My rotor is going to freeze!
+Helicopter#H3(6) :  Nothing said I had to crash.
+JetPlane#J2(8) :  We have clearance, Clarence. Roger, Roger. What's our vector, Victor?.
+Helicopter#H4(9) :  This is hot.
+Baloon#B2(2) :  My rotor is going to freeze!
+Helicopter#H2(5) :  Nothing said I had to crash.
+Helicopter#H2(5) landing @ 36 63 0.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+JetPlane#J2(8) :  This is hot.
+Helicopter#H4(9) :  Alright, I’ll need three men up in the wind shield.
+Baloon#B2(2) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+Helicopter#H3(6) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+JetPlane#J2(8) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H4(9) :  Let's enjoy the good weather and take some pics.
+Baloon#B2(2) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+Helicopter#H3(6) :  Damn you rain! You messed up my trip.
+JetPlane#J2(8) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+Helicopter#H4(9) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+Baloon#B2(2) :  This is hot.
+Helicopter#H3(6) :  I don't like flying because I’m afraid of crashing into a large mountain of snow. 
+JetPlane#J2(8) :  Now I know what a dog feels like watching TV.
+Helicopter#H4(9) :  This is hot.
+Baloon#B2(2) :  Now I know what a dog feels like watching TV.
+Helicopter#H3(6) :  Damn you rain! You messed up my trip.
+JetPlane#J2(8) :  We have clearance, Clarence. Roger, Roger. What's our vector, Victor?.
+Helicopter#H4(9) :  Now I know what a dog feels like watching TV.
+Baloon#B2(2) :  Damn you rain! You messed up my trip.
+Helicopter#H3(6) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+JetPlane#J2(8) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+Helicopter#H4(9) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+Baloon#B2(2) :  Now I know what a dog feels like watching TV.
+Helicopter#H3(6) :  Nothing said I had to crash.
+JetPlane#J2(8) :  The strength of the turbulence is directly proportional to the temperature of your coffee.
+Helicopter#H4(9) :  Let's enjoy the good weather and take some pics.
+Baloon#B2(2) :  Now I know what a dog feels like watching TV.
+Helicopter#H3(6) :  Instrument flying is an unnatural act probably punishable by God.
+JetPlane#J2(8) :  We have clearance, Clarence. Roger, Roger. What's our vector, Victor?.
+Helicopter#H4(9) :  My rotor is going to freeze!
+Baloon#B2(2) :  Nothing said I had to crash.
+Helicopter#H3(6) :  Now I know what a dog feels like watching TV.
+JetPlane#J2(8) :  We have clearance, Clarence. Roger, Roger. What's our vector, Victor?.
+Helicopter#H4(9) :  Tonight'c forecast: 100% chance of reading ... Raiiiinnnnnn.
+Baloon#B2(2) :  The strength of the turbulence is directly proportional to the temperature of your coffee.
+Helicopter#H3(6) :  Instrument flying is an unnatural act probably punishable by God.
+JetPlane#J2(8) :  Alright, I’ll need three men up in the wind shield.
+Helicopter#H4(9) :  Death is just nature's way of telling you to watch your airspeed.
+Baloon#B2(2) :  Now I know what a dog feels like watching TV.
+Helicopter#H3(6) :  Nothing said I had to crash.
+Helicopter#H3(6) landing @ 149 78 0.
+Tower says: Helicopter#H3(6) unregistered from weather tower.
+Helicopter#H4(9) :  The strength of the turbulence is directly proportional to the temperature of your coffee.
