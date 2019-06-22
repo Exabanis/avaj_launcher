@@ -1,5 +1,23 @@
+package za.exabanis.avaj_launcher.aircraft;
+
+import za.exabanis.avaj_launcher.utilities.OwnException;
+
 public class AircraftFactory {
 
+    /**
+     *
+     * This creates an object of coordinates to be used in creating a new flyable
+     * This creates a new flyable based on the type passed on the parameter
+     * This returns an object of a flyable
+     * If a wrong type is passed the method throws and exception and return null
+     * @param type
+     * @param name
+     * @param longitude
+     * @param latitude
+     * @param height
+     * @return
+     *
+     */
     public Flyable newAircraft(String type, String name, int longitude, int latitude, int height){
         Flyable flyable = null;
 

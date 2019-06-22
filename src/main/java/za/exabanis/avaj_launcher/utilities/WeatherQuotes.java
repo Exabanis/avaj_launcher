@@ -1,3 +1,5 @@
+package za.exabanis.avaj_launcher.utilities;
+
 import java.util.Random;
 
 public class WeatherQuotes {
@@ -26,7 +28,13 @@ public class WeatherQuotes {
             "I don't like flying because I’m afraid of crashing into a large mountain of snow. "
     };
 
-    String getQuote(String weather){
+    /**
+     *
+     * This takes weather and returns a random weather quote in a form of string
+     * @param weather
+     * @return
+     */
+    public String getQuote(String weather){
         String quote = null;
         Random indexer = new Random();
         int index = indexer.nextInt(4);

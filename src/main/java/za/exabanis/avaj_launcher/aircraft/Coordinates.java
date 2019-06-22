@@ -1,8 +1,17 @@
+package za.exabanis.avaj_launcher.aircraft;
+
 public class Coordinates {
     private int longitude;
     private int latitude;
     private int height;
 
+    /**
+     *
+     * This constructs coordinates according to the specified longitude, latitude and height
+     * @param longitude
+     * @param latitude
+     * @param height
+     */
     Coordinates(int longitude, int latitude, int height) {
         this.longitude = longitude;
         this.latitude = latitude;
@@ -21,6 +30,11 @@ public class Coordinates {
         return height;
     }
 
+    /**
+     *
+     * This return the coordinates of an Aircraft longitude, latitude and the height
+     * @return
+     */
     @Override
     public String toString() {
         return getLongitude()+" "+getLatitude()+" "+getHeight();

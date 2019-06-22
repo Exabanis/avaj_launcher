@@ -1,3 +1,9 @@
+package za.exabanis.avaj_launcher.weather;
+
+import za.exabanis.avaj_launcher.aircraft.AircraftFactory;
+import za.exabanis.avaj_launcher.aircraft.Flyable;
+import za.exabanis.avaj_launcher.utilities.OwnException;
+
 import java.io.*;
 
 public class Simulator {
@@ -5,9 +11,9 @@ public class Simulator {
         WeatherTower weatherTower = new WeatherTower();
         AircraftFactory aircraftFactory = new AircraftFactory();
 
-        File file = new File(args[0]);
 
         try {
+            File file = new File(args[0]);
 
             BufferedReader input = new BufferedReader(new FileReader(file));
 
