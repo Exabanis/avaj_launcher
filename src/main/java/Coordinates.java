@@ -6,7 +6,7 @@ public class Coordinates {
     Coordinates(int longitude, int latitude, int height) {
         this.longitude = longitude;
         this.latitude = latitude;
-        this.height = height;
+        this.height = this.getHeight() + height > 100 ? 100 : this.getHeight() + height < 0 ? 0 : height;
     }
 
     public int getLongitude() {

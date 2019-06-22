@@ -1,0 +1,768 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+SNOW
+RAIN
+SUN
+RAIN
+Tower says: Baloon#B1(1) unregistered from weather tower.
+SUN
+RAIN
+FOG
+FOG
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+SUN
+Tower says: Baloon#B3(7) unregistered from weather tower.
+FOG
+RAIN
+FOG
+SNOW
+SUN
+SUN
+SUN
+FOG
+SUN
+SNOW
+RAIN
+SUN
+FOG
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+RAIN
+RAIN
+Tower says: Baloon#B2(2) unregistered from weather tower.
+SNOW
+FOG
+SUN
+RAIN
+FOG
+FOG
+RAIN
+FOG
+SNOW
+FOG
+SNOW
+SNOW
+RAIN
+FOG
+SUN
+FOG
+FOG
+SNOW
+SUN
+RAIN
+RAIN
+RAIN
+RAIN
+FOG
+FOG
+SNOW
+FOG
+FOG
+FOG
+SUN
+SUN
+SNOW
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+SNOW
+RAIN
+SUN
+RAIN
+FOG
+FOG
+FOG
+SNOW
+SNOW
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+SNOW
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+SNOW
+SUN
+SUN
+SNOW
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+RAIN
+SNOW
+FOG
+SNOW
+SNOW
+Tower says: Baloon#B1(1) unregistered from weather tower.
+RAIN
+SNOW
+SUN
+SNOW
+SUN
+Tower says: Baloon#B3(7) unregistered from weather tower.
+SUN
+SUN
+FOG
+RAIN
+RAIN
+FOG
+SUN
+SUN
+SUN
+SNOW
+SNOW
+SUN
+RAIN
+FOG
+SNOW
+RAIN
+FOG
+RAIN
+FOG
+RAIN
+SUN
+RAIN
+RAIN
+FOG
+SUN
+RAIN
+FOG
+RAIN
+Tower says: Baloon#B2(2) unregistered from weather tower.
+FOG
+SUN
+SUN
+FOG
+SNOW
+RAIN
+RAIN
+FOG
+SNOW
+RAIN
+RAIN
+RAIN
+FOG
+FOG
+SUN
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+SNOW
+FOG
+SUN
+RAIN
+FOG
+SNOW
+FOG
+SUN
+SUN
+RAIN
+SNOW
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+SUN
+SNOW
+FOG
+RAIN
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+SUN
+SNOW
+SUN
+RAIN
+FOG
+SUN
+SUN
+SNOW
+FOG
+SNOW
+SUN
+SUN
+SNOW
+SUN
+SUN
+FOG
+SUN
+FOG
+RAIN
+SNOW
+SUN
+SUN
+RAIN
+RAIN
+Tower says: Baloon#B1(1) unregistered from weather tower.
+SNOW
+RAIN
+SNOW
+SUN
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+FOG
+SNOW
+FOG
+FOG
+SUN
+SUN
+SUN
+SUN
+RAIN
+FOG
+RAIN
+SNOW
+SUN
+SNOW
+SUN
+FOG
+SNOW
+SNOW
+RAIN
+SUN
+Tower says: Baloon#B2(2) unregistered from weather tower.
+FOG
+SUN
+RAIN
+SNOW
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+FOG
+RAIN
+FOG
+FOG
+SNOW
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+FOG
+FOG
+SNOW
+SUN
+SNOW
+RAIN
+SNOW
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+FOG
+FOG
+RAIN
+SUN
+Tower says: Baloon#B1(1) unregistered from weather tower.
+RAIN
+FOG
+SNOW
+SNOW
+FOG
+FOG
+FOG
+SUN
+SNOW
+SNOW
+FOG
+SUN
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+SUN
+SUN
+SUN
+RAIN
+SNOW
+SUN
+RAIN
+SUN
+SUN
+SNOW
+Tower says: Baloon#B3(7) unregistered from weather tower.
+RAIN
+SNOW
+SNOW
+SNOW
+SUN
+FOG
+SNOW
+SNOW
+SUN
+SUN
+Tower says: Baloon#B2(2) unregistered from weather tower.
+FOG
+SUN
+FOG
+FOG
+FOG
+FOG
+FOG
+SNOW
+RAIN
+SNOW
+FOG
+SUN
+SUN
+SNOW
+SUN
+SUN
+FOG
+FOG
+SNOW
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+SUN
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+FOG
+RAIN
+RAIN
+SNOW
+SUN
+RAIN
+FOG
+SUN
+FOG
+SUN
+RAIN
+RAIN
+FOG
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+FOG
+SNOW
+SUN
+SUN
+SNOW
+FOG
+FOG
+RAIN
+Tower says: Baloon#B1(1) unregistered from weather tower.
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+FOG
+RAIN
+FOG
+FOG
+RAIN
+SUN
+SUN
+Tower says: Baloon#B3(7) unregistered from weather tower.
+FOG
+FOG
+RAIN
+SUN
+SNOW
+SUN
+SUN
+SUN
+SNOW
+SNOW
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+SUN
+RAIN
+SNOW
+SUN
+SUN
+RAIN
+SUN
+SUN
+SUN
+FOG
+SUN
+SUN
+SNOW
+SNOW
+RAIN
+FOG
+FOG
+FOG
+FOG
+FOG
+RAIN
+SUN
+FOG
+SNOW
+RAIN
+RAIN
+RAIN
+SUN
+FOG
+FOG
+RAIN
+SUN
+SNOW
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+SUN
+RAIN
+RAIN
+Tower says: Baloon#B2(2) unregistered from weather tower.
+SUN
+RAIN
+SUN
+SNOW
+RAIN
+SNOW
+RAIN
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+SUN
+RAIN
+SNOW
+SUN
+FOG
+FOG
+RAIN
+SNOW
+RAIN
+SNOW
+RAIN
+SUN
+Tower says: Baloon#B1(1) unregistered from weather tower.
+FOG
+RAIN
+SNOW
+RAIN
+RAIN
+SNOW
+SNOW
+FOG
+SUN
+SNOW
+SUN
+Tower says: Baloon#B3(7) unregistered from weather tower.
+RAIN
+SUN
+SNOW
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+SUN
+FOG
+SNOW
+SUN
+FOG
+RAIN
+RAIN
+SUN
+SNOW
+FOG
+SUN
+SNOW
+FOG
+RAIN
+RAIN
+RAIN
+RAIN
+SUN
+SNOW
+SUN
+RAIN
+SNOW
+FOG
+SUN
+SNOW
+RAIN
+SNOW
+SNOW
+SNOW
+RAIN
+FOG
+FOG
+SUN
+SUN
+RAIN
+SUN
+SUN
+Tower says: Baloon#B2(2) unregistered from weather tower.
+FOG
+RAIN
+FOG
+RAIN
+RAIN
+FOG
+FOG
+RAIN
+RAIN
+SNOW
+SUN
+SUN
+RAIN
+SNOW
+SNOW
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+SNOW
+RAIN
+SUN
+SNOW
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+SUN
+RAIN
+RAIN
+SUN
+FOG
+SNOW
+SUN
+RAIN
+FOG
+FOG
+SNOW
+FOG
+SUN
+Tower says: Baloon#B3(7) unregistered from weather tower.
+SUN
+Tower says: Baloon#B1(1) unregistered from weather tower.
+SUN
+FOG
+SUN
+SNOW
+FOG
+RAIN
+RAIN
+SUN
+FOG
+Tower says: Baloon#B2(2) unregistered from weather tower.
+RAIN
+SNOW
+RAIN
+FOG
+SNOW
+FOG
+SUN
+SNOW
+SNOW
+RAIN
+SUN
+FOG
+FOG
+SNOW
+SUN
+RAIN
+FOG
+FOG
+FOG
+RAIN
+SUN
+SNOW
+SUN
+SUN
+FOG
+RAIN
+FOG
+SNOW
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+FOG
+FOG
+FOG
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+RAIN
+FOG
+RAIN
+RAIN
+FOG
+RAIN
+SNOW
+FOG
+SNOW
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+SUN
+SUN
+SUN
+SUN
+SNOW
+RAIN
+SUN
+FOG
+Tower says: Baloon#B1(1) unregistered from weather tower.
+RAIN
+SUN
+SUN
+SUN
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+FOG
+SNOW
+RAIN
+SUN
+Tower says: Baloon#B3(7) unregistered from weather tower.
+SUN
+SUN
+FOG
+SUN
+FOG
+RAIN
+SUN
+RAIN
+RAIN
+FOG
+SNOW
+FOG
+SNOW
+Tower says: Baloon#B2(2) unregistered from weather tower.
+SUN
+SNOW
+SNOW
+SUN
+SNOW
+FOG
+RAIN
+FOG
+SNOW
+FOG
+SUN
+SNOW
+SUN
+SUN
+SNOW
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+RAIN
+FOG
+SUN
+SNOW
+SUN
+SUN
+FOG
+SNOW
+SUN
+RAIN
+SUN
+RAIN
+FOG
+SUN
+SUN
+RAIN
+FOG
+FOG
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+SUN
+RAIN
+SNOW
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+SUN
+FOG
+FOG
+FOG
+SNOW
+FOG
+RAIN
+SUN
+SNOW
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+SUN
+FOG
+SNOW
+SNOW
+RAIN
+RAIN
+SUN
+FOG
+SUN
+SUN
+Tower says: Baloon#B3(7) unregistered from weather tower.
+SUN
+FOG
+FOG
+SUN
+SNOW
+SNOW
+SUN
+SUN
+FOG
+SUN
+SNOW
+SUN
+FOG
+RAIN
+FOG
+RAIN
+SUN
+SUN
+RAIN
+Tower says: Baloon#B1(1) unregistered from weather tower.
+SUN
+SNOW
+SUN
+Tower says: Baloon#B2(2) unregistered from weather tower.
+RAIN
+SUN
+SNOW
+SUN
+RAIN
+FOG
+FOG
+RAIN
+RAIN
+RAIN
+SNOW
+FOG
+SNOW
+FOG
+SNOW
+FOG
+SUN
+SNOW
+SUN
+FOG
+RAIN
+RAIN
+SUN
+FOG
+Tower says: JetPlane#J1(3) unregistered from weather tower.
+SUN
+SUN
+FOG
+SUN
+SNOW
+SUN
+RAIN
+RAIN
+SUN
+SUN
+FOG
