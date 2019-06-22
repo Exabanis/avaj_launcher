@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         WeatherTower weatherTower = new WeatherTower();
         AircraftFactory aircraftFactory = new AircraftFactory();
 
@@ -25,13 +25,15 @@ public class Main {
             for(int i = 0; i < simulations; i++){
                 weatherTower.changeWeather();
             }
-            weatherTower.toStringi();
+            throw new OwnException("This is shit");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {
             e.printStackTrace();
         } catch (ArrayIndexOutOfBoundsException e){
             e.printStackTrace();
+        } catch (OwnException e) {
+            System.out.println(e);
         }
     }
 }

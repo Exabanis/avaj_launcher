@@ -5,7 +5,7 @@ import java.util.logging.LogRecord;
 import java.util.logging.Logger;
 
 public class LoggerFormatter extends Formatter {
-    Logger logger = Logger.getLogger(LoggerFormatter.class.getName());
+    static Logger logger = Logger.getLogger(LoggerFormatter.class.getName());
     FileHandler fileHandler;
     public void log(String msg){
         try{

@@ -6,15 +6,20 @@ public class Baloon extends Aircraft implements Flyable {
     }
 
     public void updateConditions(){
+        String pref = this.getClass().getName() + "#" + this.name + "(" + this.id;
         String weather = weatherTower.getWeather(this.coordinates);
         if (weather.equals("SUN")){
-            this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude() + 2, coordinates.getHeight() + 4);
+            loggerFormatter.log(pref + ") : This is hot.");
+            this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude() + 10, coordinates.getHeight() + 2);
         } else if (weather.equals("RAIN")){
-            this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude(), coordinates.getHeight() - 5);
+            loggerFormatter.log(pref + ") : Damn you rain! You messed up my trip.");
+            this.coordinates = new Coordinates(coordinates.getLongitude() + 5, coordinates.getLatitude(), coordinates.getHeight());
         } else if (weather.equals("FOG")){
-            this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude(), coordinates.getHeight() - 3);
+            loggerFormatter.log(pref + ") : Let's enjoy the good weather and take some pics.");
+            this.coordinates = new Coordinates(coordinates.getLongitude() + 1, coordinates.getLatitude(), coordinates.getHeight());
         } else if (weather.equals("SNOW")){
-            this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude(), coordinates.getHeight() - 15);
+            loggerFormatter.log(pref + ") :  My rotor is going to freeze!");
+            this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude(), coordinates.getHeight() - 12);
         }
 
         if (coordinates.getHeight() == 0) {

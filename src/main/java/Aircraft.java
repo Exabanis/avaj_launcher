@@ -19,8 +19,10 @@ public class Aircraft {
         String logMessage = null;
         if (msg.equals("register"))
             logMessage = "Tower says: "+this.getClass().getName()+"#"+this.name+"("+this.id+") registered to weather tower.";
-        else if (msg.equals("unregister"))
-            logMessage = "Tower says: "+this.getClass().getName()+"#"+this.name+"("+this.id+") unregistered from weather tower.";
+        else if (msg.equals("unregister")) {
+            logMessage = this.getClass().getName() + "#" + this.name + "(" + this.id + ") landing.\n";
+            logMessage += "Tower says: " + this.getClass().getName() + "#" + this.name + "(" + this.id + ") unregistered from weather tower.";
+        }
         return logMessage;
     }
 }
