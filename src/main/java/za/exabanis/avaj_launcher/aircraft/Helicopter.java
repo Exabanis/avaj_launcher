@@ -1,5 +1,6 @@
 package za.exabanis.avaj_launcher.aircraft;
 
+import za.exabanis.avaj_launcher.utilities.WeatherQuotes;
 import za.exabanis.avaj_launcher.weather.WeatherTower;
 
 public class Helicopter extends Aircraft implements Flyable {
@@ -19,14 +20,30 @@ public class Helicopter extends Aircraft implements Flyable {
     /**
      *
      * This request the weather from the weatherTower and modify the coordinates
-     * according to the weather condition
+     * according to the weather condition(SUN,RAIN,FOG,SNOW)
+     * Then log the flyable's comments to the simulation.txt using LoggerFormatter.class
      * If the height is 0 meaning the flyable has landed, it request the weatherTower
      * to unregister it and logs the de-registration to the simulation log
      *
      */
+
     public void updateConditions() {
+        WeatherQuotes weatherQuotes = new WeatherQuotes();
         String weather = weatherTower.getWeather(this.coordinates);
-        setCoordinates(weather);
+
+        if (weather.equals("SUN")){
+            loggerFormatter.log(pref + weatherQuotes.getQuote(weather));
+            this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude() + 10, coordinates.getHeight() + 2);
+        } else if (weather.equals("RAIN")){
+            loggerFormatter.log(pref + weatherQuotes.getQuote(weather));
+            this.coordinates = new Coordinates(coordinates.getLongitude() + 5, coordinates.getLatitude(), coordinates.getHeight());
+        } else if (weather.equals("FOG")){
+            loggerFormatter.log(pref + weatherQuotes.getQuote(weather));
+            this.coordinates = new Coordinates(coordinates.getLongitude() + 1, coordinates.getLatitude(), coordinates.getHeight());
+        } else if (weather.equals("SNOW")){
+            loggerFormatter.log(pref + weatherQuotes.getQuote(weather));
+            this.coordinates = new Coordinates(coordinates.getLongitude(), coordinates.getLatitude(), coordinates.getHeight() - 12);
+        }
 
         if (coordinates.getHeight() == 0) {
             weatherTower.unregister(this);
@@ -42,6 +59,7 @@ public class Helicopter extends Aircraft implements Flyable {
      * @param weatherTower
      *
      */
+
     public void registerTower(WeatherTower weatherTower){
         this.weatherTower = weatherTower;
         weatherTower.register(this);

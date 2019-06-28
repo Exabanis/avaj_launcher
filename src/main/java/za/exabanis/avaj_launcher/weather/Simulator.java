@@ -6,10 +6,10 @@ import za.exabanis.avaj_launcher.utilities.OwnException;
 
 import java.io.*;
 
-public class Simulator {
+public class Simulator extends AircraftFactory{
     public static void main(String[] args){
         WeatherTower weatherTower = new WeatherTower();
-     //   AircraftFactory aircraftFactory = new AircraftFactory();
+        AircraftFactory aircraftFactory = new Simulator();
 
 
         try {
@@ -24,7 +24,9 @@ public class Simulator {
             Flyable flyable;
             while ((line = input.readLine()) != null) {
                 splitLine = line.split(" ");
-                flyable = AircraftFactory.newAircraft(splitLine[0], splitLine[1], getNumber(splitLine[2], "longitude"), getNumber(splitLine[3], "latitude"), getNumber(splitLine[4], "height"));
+                flyable = aircraftFactory.newAircraft(splitLine[0], splitLine[1], getNumber(splitLine[2], "longitude"), getNumber(splitLine[3], "latitude"), getNumber(splitLine[4], "height"));
+                if (flyable == null)
+                    throw new OwnException("Invalid class type");
                 flyable.registerTower(weatherTower);
             }
 
@@ -33,6 +35,7 @@ public class Simulator {
             }
 
             input.close();
+            System.out.println("\nSimulation completed without an error.");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {

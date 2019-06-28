@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="936e1ae8-fd22-42e1-98f1-f95ac368919a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/WeatherQuotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Aircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Aircraft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/AircraftFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/AircraftFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Baloon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Baloon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Coordinates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Coordinates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Helicopter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Helicopter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/JetPlane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/JetPlane.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/LoggerFormatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/LoggerFormatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/OwnException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/OwnException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aircraft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AircraftFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AircraftFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Baloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Baloon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Coordinates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Helicopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JetPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JetPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LoggerFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoggerFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Simulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OwnException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OwnException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/scenario.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/scenario.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/AircraftFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/AircraftFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Baloon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Baloon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Coordinates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Coordinates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Helicopter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/JetPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/JetPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/utilities/WeatherQuotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/utilities/WeatherQuotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/Simulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/Simulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/scenario.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/scenario.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -44,7 +40,8 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.87" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -52,133 +49,48 @@
           <entry key="1" value="3" />
           <entry key="2" value="3" />
           <entry key="3" value="3" />
-          <entry key="java" value="66" />
-          <entry key="txt" value="10" />
+          <entry key="java" value="101" />
+          <entry key="txt" value="17" />
           <entry key="txtHelicopter" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="66" />
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="JAVA" value="101" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5251" />
-          <entry key="txt" value="115" />
+          <entry key="java" value="8863" />
+          <entry key="txt" value="151" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5251" />
-          <entry key="PLAIN_TEXT" value="115" />
+          <entry key="JAVA" value="8863" />
+          <entry key="PLAIN_TEXT" value="151" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Simulator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Aircraft.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Coordinates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
-              <folding>
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#616#617#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Helicopter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-              <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WeatherQuotes.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/Simulator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Baloon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="178">
+              <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
               <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/simulator.txt">
+        <entry file="file://$PROJECT_DIR$/simulation.txt">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WeatherTower.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/WeatherProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/scenario.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -491,25 +403,43 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Flyable.java" />
         <option value="$PROJECT_DIR$/src/main/java/Logger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/WeatherProvider.java" />
         <option value="$PROJECT_DIR$/src/main/java/simulator.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/WeatherTower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Tower.java" />
-        <option value="$PROJECT_DIR$/src/main/java/JetPlane.java" />
-        <option value="$PROJECT_DIR$/src/main/java/OwnException.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AircraftFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/LoggerFormatter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Simulator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Baloon.java" />
         <option value="$PROJECT_DIR$/src/main/java/scenario.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/WeatherQuotes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Baloon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Flyable.java" />
         <option value="$PROJECT_DIR$/src/main/java/Aircraft.java" />
         <option value="$PROJECT_DIR$/src/main/java/Coordinates.java" />
-        <option value="$PROJECT_DIR$/simulator.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Helicopter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/WeatherQuotes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JetPlane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/WeatherQuotes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LoggerFormatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OwnException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WeatherTower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WeatherProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AircraftFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Simulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/main/Simulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Flyable.java" />
+        <option value="$PROJECT_DIR$/simulator.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/utilities/LoggerFormatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/utilities/OwnException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/Tower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/WeatherProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/WeatherTower.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Coordinates.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Aircraft.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Baloon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/JetPlane.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Helicopter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/scenario.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/AircraftFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/utilities/WeatherQuotes.java" />
+        <option value="$PROJECT_DIR$/simulation.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/Simulator.java" />
       </list>
     </option>
   </component>
@@ -520,7 +450,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="970" />
+    <option name="width" value="1174" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -531,12 +461,48 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
               <item name="avaj_launcher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avaj_launcher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avaj_launcher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avaj_launcher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avaj_launcher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="za" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avaj_launcher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="za" type="462c0819:PsiDirectoryNode" />
+              <item name="exabanis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
@@ -556,25 +522,50 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avaj_launcher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="avaj_launcher" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avaj_launcher" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avaj_launcher" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="avaj_launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561190074164" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561757916389" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather" />
+      <recent name="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/main" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -589,17 +580,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Simulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Simulator" />
+  <component name="RunManager" selected="Application.Simulator">
+    <configuration name="Simulator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="za.exabanis.avaj_launcher.weather.Simulator" />
       <module name="avaj_launcher_main" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/main/java/scenario.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.exabanis.avaj_launcher.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Simulator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="za.exabanis.avaj_launcher.weather.Simulator" />
+      <module name="avaj_launcher_main" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/scenario.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="za.exabanis.avaj_launcher.weather.Simulator" />
+      <module name="avaj_launcher_main" />
+      <option name="PROGRAM_PARAMETERS" value="za/exabanis/avaj_launcher/weather/scenario.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.exabanis.avaj_launcher.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Simulator" />
+      <item itemvalue="Application.Simulator (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Simulator (1)" />
         <item itemvalue="Application.Simulator" />
       </list>
     </recent_temporary>
@@ -615,15 +638,16 @@
       <option name="presentableId" value="Default" />
       <updated>1561143621950</updated>
       <workItem from="1561143625300" duration="10161000" />
-      <workItem from="1561154993221" duration="28334000" />
+      <workItem from="1561154993221" duration="36788000" />
+      <workItem from="1561749906881" duration="5867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38495000" />
+    <option name="totallyTimeSpent" value="52816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="970" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="898" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -631,9 +655,9 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.30818966" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.5151869" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.2881188" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.32970297" />
@@ -646,6 +670,7 @@
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" weight="0.32970297" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -697,63 +722,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txt.1">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txt.2">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txt.3">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txtHelicopter">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Flyable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Tower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="11" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/JetPlane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OwnException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txt.1" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txt.2" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txt.3" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txtHelicopter" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/simulator.txt" />
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -761,102 +734,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AircraftFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/scenario.txt1" />
+    <entry file="file://$PROJECT_DIR$/simulator.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/Tower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/LoggerFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Baloon.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/WeatherTower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/utilities/OwnException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/utilities/LoggerFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="16" column="68" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
           <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Simulator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/JetPlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/scenario.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WeatherTower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="148">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WeatherProvider.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Baloon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="39" />
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simulator.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Helicopter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Coordinates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="39" column="58" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Aircraft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;method#getLogMsg#0;class#Aircraft#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/AircraftFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+          <folding>
+            <element signature="docComment;method#newAircraft#0;class#AircraftFactory#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/aircraft/Flyable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/utilities/WeatherQuotes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/WeatherProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/scenario.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simulation.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Coordinates.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/exabanis/avaj_launcher/weather/Simulator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        <state relative-caret-position="178">
+          <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
           <folding>
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Helicopter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Aircraft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/WeatherQuotes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>

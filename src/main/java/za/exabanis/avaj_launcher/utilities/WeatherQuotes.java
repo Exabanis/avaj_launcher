@@ -39,13 +39,13 @@ public class WeatherQuotes {
         Random indexer = new Random();
         int index = indexer.nextInt(4);
         if(weather.equals("SUN"))
-            quote = ") :  "+this.sun[index];
+            quote = String.format(": %s", this.sun[index]);
         else if(weather.equals("RAIN"))
-            quote = ") :  "+this.rain[index];
+            quote = String.format(": %s", this.rain[index]);
         else if(weather.equals("FOG"))
-            quote = ") :  "+this.fog[index];
+            quote = String.format(": %s", this.fog[index]);
         else if(weather.equals("SNOW"))
-            quote = ") :  "+this.snow[index];
+            quote = String.format(": %s", this.snow[index]);
 
         return quote;
     }

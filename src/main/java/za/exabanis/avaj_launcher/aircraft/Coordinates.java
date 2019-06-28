@@ -32,11 +32,11 @@ public class Coordinates {
 
     /**
      *
-     * This return the coordinates of an Aircraft longitude, latitude and the height
-     * @return
+     * @return the coordinates of an Aircraft longitude, latitude and the height
+     *
      */
     @Override
     public String toString() {
-        return getLongitude()+" "+getLatitude()+" "+getHeight();
+        return String.format("longitude(%s), latitude(%s), height(%s)",getLongitude(), getLatitude(), getHeight());
     }
 }

@@ -1,7 +1,5 @@
 package za.exabanis.avaj_launcher.aircraft;
 
-import za.exabanis.avaj_launcher.utilities.OwnException;
-
 public abstract class AircraftFactory {
 
     /**
@@ -29,12 +27,6 @@ public abstract class AircraftFactory {
             flyable = new JetPlane(name, coordinates);
         } else if (type.equals("Baloon")){
             flyable = new Baloon(name, coordinates);
-        } else {
-            try {
-                throw new OwnException("Invalid class type");
-            } catch (OwnException e) {
-                e.printStackTrace();
-            }
         }
 
         return flyable;
