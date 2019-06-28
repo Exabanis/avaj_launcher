@@ -2,7 +2,7 @@ package za.exabanis.avaj_launcher.aircraft;
 
 import za.exabanis.avaj_launcher.utilities.OwnException;
 
-public class AircraftFactory {
+public abstract class AircraftFactory {
 
     /**
      *
