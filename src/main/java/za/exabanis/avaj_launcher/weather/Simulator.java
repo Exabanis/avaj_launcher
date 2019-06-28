@@ -9,7 +9,7 @@ import java.io.*;
 public class Simulator {
     public static void main(String[] args){
         WeatherTower weatherTower = new WeatherTower();
-        AircraftFactory aircraftFactory = new AircraftFactory();
+     //   AircraftFactory aircraftFactory = new AircraftFactory();
 
 
         try {
@@ -24,7 +24,7 @@ public class Simulator {
             Flyable flyable;
             while ((line = input.readLine()) != null) {
                 splitLine = line.split(" ");
-                flyable = aircraftFactory.newAircraft(splitLine[0], splitLine[1], getNumber(splitLine[2], "longitude"), getNumber(splitLine[3], "latitude"), getNumber(splitLine[4], "height"));
+                flyable = AircraftFactory.newAircraft(splitLine[0], splitLine[1], getNumber(splitLine[2], "longitude"), getNumber(splitLine[3], "latitude"), getNumber(splitLine[4], "height"));
                 flyable.registerTower(weatherTower);
             }
 
