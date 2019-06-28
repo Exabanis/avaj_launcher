@@ -1,6 +1,6 @@
-package za.exabanis.avaj_launcher.weather;
+package com.simulator;
 
-import za.exabanis.avaj_launcher.aircraft.Flyable;
+import com.aircraft.Flyable;
 
 import java.util.ArrayList;
 

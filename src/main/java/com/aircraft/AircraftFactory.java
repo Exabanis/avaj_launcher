@@ -1,4 +1,4 @@
-package za.exabanis.avaj_launcher.aircraft;
+package com.aircraft;
 
 public abstract class AircraftFactory {
 
@@ -16,7 +16,7 @@ public abstract class AircraftFactory {
      * @return
      *
      */
-    public Flyable newAircraft(String type, String name, int longitude, int latitude, int height){
+    public static Flyable newAircraft(String type, String name, int longitude, int latitude, int height){
         Flyable flyable = null;
 
         Coordinates coordinates = new Coordinates(longitude, latitude, height);

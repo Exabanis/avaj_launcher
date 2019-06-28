@@ -1,4 +1,4 @@
-package za.exabanis.avaj_launcher.utilities;
+package com.utilities;
 
 public class OwnException extends Exception {
     /**

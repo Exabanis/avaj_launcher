@@ -1,4 +1,4 @@
-package za.exabanis.avaj_launcher.utilities;
+package com.utilities;
 
 import java.io.IOException;
 import java.util.logging.FileHandler;

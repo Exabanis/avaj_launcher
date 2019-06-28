@@ -1,15 +1,14 @@
-package za.exabanis.avaj_launcher.weather;
+package com.simulator;
 
-import za.exabanis.avaj_launcher.aircraft.AircraftFactory;
-import za.exabanis.avaj_launcher.aircraft.Flyable;
-import za.exabanis.avaj_launcher.utilities.OwnException;
+import com.aircraft.AircraftFactory;
+import com.aircraft.Flyable;
+import com.utilities.OwnException;
 
 import java.io.*;
 
-public class Simulator extends AircraftFactory{
+public class Simulator{
     public static void main(String[] args){
         WeatherTower weatherTower = new WeatherTower();
-        AircraftFactory aircraftFactory = new Simulator();
 
 
         try {
@@ -24,7 +23,7 @@ public class Simulator extends AircraftFactory{
             Flyable flyable;
             while ((line = input.readLine()) != null) {
                 splitLine = line.split(" ");
-                flyable = aircraftFactory.newAircraft(splitLine[0], splitLine[1], getNumber(splitLine[2], "longitude"), getNumber(splitLine[3], "latitude"), getNumber(splitLine[4], "height"));
+                flyable = AircraftFactory.newAircraft(splitLine[0], splitLine[1], getNumber(splitLine[2], "longitude"), getNumber(splitLine[3], "latitude"), getNumber(splitLine[4], "height"));
                 if (flyable == null)
                     throw new OwnException("Invalid class type");
                 flyable.registerTower(weatherTower);
@@ -35,7 +34,7 @@ public class Simulator extends AircraftFactory{
             }
 
             input.close();
-            System.out.println("\nSimulation completed without an error.");
+            System.out.println("\nSimulation completed without an error.\n");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         } catch (IOException e) {

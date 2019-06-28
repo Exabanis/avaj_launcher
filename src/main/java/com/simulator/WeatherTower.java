@@ -1,12 +1,12 @@
-package za.exabanis.avaj_launcher.weather;
+package com.simulator;
 
-import za.exabanis.avaj_launcher.aircraft.Coordinates;
+import com.aircraft.Coordinates;
 
 public class WeatherTower extends Tower {
     /**
      *
-     * This creates a WeatherProvider and use it to get the current weather
-     * This returns a weather string to the caller
+     * This creates a WeatherProvider and use it to get the current simulator
+     * This returns a simulator string to the caller
      * @param coordinates
      * @return
      *
@@ -18,7 +18,7 @@ public class WeatherTower extends Tower {
 
     /**
      *
-     * This notifies the WeatherTower that the weather conditions has changed
+     * This notifies the WeatherTower that the simulator conditions has changed
      *
      */
     void changeWeather(){

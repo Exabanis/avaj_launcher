@@ -1,6 +1,6 @@
-package za.exabanis.avaj_launcher.weather;
+package com.simulator;
 
-import za.exabanis.avaj_launcher.aircraft.Coordinates;
+import com.aircraft.Coordinates;
 
 import java.util.Random;
 
@@ -25,10 +25,10 @@ public class WeatherProvider {
 
     /**
      *
-     * This creates a random weather string
+     * This creates a random simulator string
      * Checks if the maximum possible height decrease would be below 0
      * Checks if the maximum possible height increase would be above 100
-     * This returns the weather string
+     * This returns the simulator string
      * @param coordinates
      * @return
      *

@@ -1,6 +1,6 @@
-package za.exabanis.avaj_launcher.aircraft;
+package com.aircraft;
 
-import za.exabanis.avaj_launcher.utilities.LoggerFormatter;
+import com.utilities.LoggerFormatter;
 
 
 public abstract class Aircraft {
@@ -24,7 +24,7 @@ public abstract class Aircraft {
         this.name = name;
         this.coordinates = coordinates;
         this.id = nextId();
-        this.pref = String.format("%s#%s(%s)", this.getClass().getName().substring(35), this.name, this.id);
+        this.pref = String.format("%s#%s(%s)", this.getClass().getName().substring(13), this.name, this.id);
     }
 
     private long nextId() {
@@ -43,10 +43,10 @@ public abstract class Aircraft {
     public String getLogMsg(String msg){
         String logMessage = null;
         if (msg.equals("register"))
-            logMessage = String.format("Tower says: %s registered to weather tower.", this.pref);
+            logMessage = String.format("Tower says: %s registered to simulator tower.", this.pref);
         else if (msg.equals("unregister")) {
             logMessage = String.format("%s landing @ %s.\n", this.pref, coordinates.toString());
-            logMessage += String.format("Tower says: %s unregistered from weather tower.", this.pref);
+            logMessage += String.format("Tower says: %s unregistered from simulator tower.", this.pref);
         }
         return logMessage;
     }

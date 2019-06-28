@@ -1,6 +1,6 @@
-package za.exabanis.avaj_launcher.aircraft;
+package com.aircraft;
 
-import za.exabanis.avaj_launcher.weather.WeatherTower;
+import com.simulator.WeatherTower;
 
 /**
  *

@@ -1,7 +1,7 @@
-package za.exabanis.avaj_launcher.aircraft;
+package com.aircraft;
 
-import za.exabanis.avaj_launcher.utilities.WeatherQuotes;
-import za.exabanis.avaj_launcher.weather.WeatherTower;
+import com.simulator.WeatherTower;
+import com.utilities.WeatherQuotes;
 
 public class Baloon extends Aircraft implements Flyable {
     private WeatherTower weatherTower;
@@ -19,8 +19,8 @@ public class Baloon extends Aircraft implements Flyable {
 
     /**
      *
-     * This request the weather from the weatherTower and modify the coordinates
-     * according to the weather condition(SUN,RAIN,FOG,SNOW)
+     * This request the simulator from the weatherTower and modify the coordinates
+     * according to the simulator condition(SUN,RAIN,FOG,SNOW)
      * Then log the flyable's comments to the simulation.txt using LoggerFormatter.class
      * If the height is 0 meaning the flyable has landed, it request the weatherTower
      * to unregister it and logs the de-registration to the simulation log
